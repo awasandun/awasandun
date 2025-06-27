@@ -37,13 +37,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun04&label=Profile%20views&color=0e75b6&style=flat" alt="sandun04" /> </p>
 
-- 🔭 I’m currently working on **Secondhand Car Sale**
-
-- 🌱 I’m currently learning **Web development languages**
-
-- 💬 Ask me about **java,HTML,CSS,python**
-
-- 📫 How to reach me **awasandun18@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
