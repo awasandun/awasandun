@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .box {
-      width: 100px;
-      height: 100px;
-      background-color: blue;
-      position: relative;
-      animation: moveBox 2s infinite alternate;
-    }
-
-    @keyframes moveBox {
-      from { left: 0; }
-      to   { left: 200px; }
-    }
-  </style>
+ 
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
