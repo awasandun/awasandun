@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <img src="full_stack_web_developer_salary-1.jpg" height="300" width="500">
+ <img src="full_stack_web_developer_salary-1.jpg" height="300" width="1000">
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
