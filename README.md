@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-<div align="center">
-  <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://www.instagram.com/awasandun?igsh=dXFsMDg3eHV5emY1&utm_source=qr"></a>
-  <a href="https://www.instagram.com/awasandun?igsh=dXFsMDg3eHV5emY1&utm_source=qr" src="https://www.instagram.com/awasandun?igsh=dXFsMDg3eHV5emY1&utm_source=qr"></a>
-  <a href="https://www.instagram.com/awasandun?igsh=dXFsMDg3eHV5emY1&utm_source=qr"><img alt="License" src="https://www.instagram.com/awasandun?igsh=dXFsMDg3eHV5emY1&utm_source=qr"></a>
-</div>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun04&label=Profile%20views&color=0e75b6&style=flat" alt="sandun04" /> </p>
 
