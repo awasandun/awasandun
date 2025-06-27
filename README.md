@@ -23,7 +23,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="middle">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -67,8 +67,8 @@
 
 
   <video width="640" height="360" controls>
-  <source src="https://github.com/awasandun/awasandun/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
-  <source src="https://github.com/awasandun/awasandun/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/webm">
+  <source src="https://youtu.be/gRk-VYUa_eQ" type="video/mp4">
+  <source src="https://youtu.be/gRk-VYUa_eQ" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
