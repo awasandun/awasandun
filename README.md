@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <img src="![image](https://github.com/user-attachments/assets/eee52a05-7858-4253-9c3d-64e4274c12ec)" alt="A description of the image" width="400" height="300">
+ <img src="full_stack_web_developer_salary-1.jpg" height="300">
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
