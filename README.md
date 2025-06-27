@@ -1,4 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+      position: relative;
+      animation: moveBox 2s infinite alternate;
+    }
+
+    @keyframes moveBox {
+      from { left: 0; }
+      to   { left: 200px; }
+    }
+  </style>
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
 
@@ -12,8 +31,8 @@
 
 - 📫 How to reach me **awasandun18@gmail.com**
 
-<h3 align="middle">Connect with me:</h3>
-<p align="middle">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/sandun wijesingha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandun wijesingha" height="30" width="40" />
 </a>
@@ -23,8 +42,8 @@
 </a>
 </p>
 
-<h3 align="middle">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
@@ -64,11 +83,17 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+</p>
+
+<div class="box"></div>
 
 
-  <video width="640" height="360" controls>
-  <source src="https://youtu.be/gRk-VYUa_eQ" type="video/mp4">
-  <source src="https://youtu.be/gRk-VYUa_eQ" type="video/webm">
+<video width="640" height="360" controls>
+  <source src="https://github.com/awasandun/awasandun/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
+  <source src="https://github.com/awasandun/awasandun/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/webm">
   Your browser does not support the video tag.
 </video>
-</p>
+
+
+</body>
+</html>
