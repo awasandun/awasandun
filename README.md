@@ -113,3 +113,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+<p align="center"> 
+  <b>Currently Playing🎶...</b><br><br>
+  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+</p>
+
