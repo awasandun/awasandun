@@ -1,4 +1,4 @@
- <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +7,32 @@
 <body>
     <h1 align="center">Hi 👋, I'm Sandun Wijesingha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun04&label=Profile%20views&color=0e75b6&style=flat" alt="sandun04" /> </p>
