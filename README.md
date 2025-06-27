@@ -64,4 +64,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+
+
+  <video width="640" height="360" controls>
+  <source src="" type="video/mp4">
+  <source src="" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 </p>
